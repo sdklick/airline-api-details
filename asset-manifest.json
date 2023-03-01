@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/airline-api-details/static/css/main.41786c6b.css",
+    "main.js": "/airline-api-details/static/js/main.5d1e2254.js",
+    "index.html": "/airline-api-details/index.html",
+    "main.41786c6b.css.map": "/airline-api-details/static/css/main.41786c6b.css.map",
+    "main.5d1e2254.js.map": "/airline-api-details/static/js/main.5d1e2254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41786c6b.css",
+    "static/js/main.5d1e2254.js"
+  ]
+}
